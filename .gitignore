@@ -33,3 +33,5 @@ build/
 .vscode/
 /wechat-api/src/main/resources/application.properties
 /wechat-api/src/main/resources/application-dev.properties
+/wms-api/src/main/resources/application.properties
+/wms-api/src/main/resources/application-dev.properties
