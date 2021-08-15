@@ -1,0 +1,20 @@
+server.port=5952
+#Active Profiles
+spring.profiles.active=dev
+#Mini App Configuration
+wechat.miniapp.configs[0].appId=wxeb9b923e224afd9c
+wechat.miniapp.configs[0].secret=9b070e5095175411b18ea6ce0d7cd699
+wechat.miniapp.configs[0].token=
+wechat.miniapp.configs[0].aesKey=
+wechat.miniapp.configs[0].exclusive=true
+#Media Platform Configuration
+wechat.media.platform.configs[0].appId=wx41b2018bfadb73ad
+wechat.media.platform.configs[0].secret=f45e185ea6436a391c62f7a3ccf5c030
+wechat.media.platform.configs[0].token=515612315HONLBA65ASD
+wechat.media.platform.configs[0].aesKey=tY6QNsIDxHUlQHwgj6TShkU1tpqlpyUeJ79Rdd3pXrJ
+wechat.media.platform.configs[0].exclusive=true
+#Subscriber Redis Prefix
+redis.prefix.subscriber.sId=AUTHORIZATION:SUBSCRIBER:ID
+redis.prefix.subscriber.token=AUTHORIZATION:TOKEN
+redis.prefix.subscriber.information=AUTHORIZATION:INFORMATION
+
