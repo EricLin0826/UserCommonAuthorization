@@ -31,3 +31,5 @@ build/
 
 ### VS Code ###
 .vscode/
+/wechat-api/src/main/resources/application.properties
+/wechat-api/src/main/resources/application-dev.properties
