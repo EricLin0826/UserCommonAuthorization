@@ -1,0 +1,3 @@
+server.port=5953
+#Active Profiles
+spring.profiles.active=dev
